@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 ### Set up the environment
 
-Before you can run the tool locally, you need to copy [.env.example](./.env.example) to [.env](./.env) (which is ignored by git) and fill in the relevant environment variables:
+Before you can run the tool locally, you need to copy [.env.example](.env) to [.env](./.env) (which is ignored by git) and fill in the relevant environment variables:
 
 ```sh
 cp .env.example .env
